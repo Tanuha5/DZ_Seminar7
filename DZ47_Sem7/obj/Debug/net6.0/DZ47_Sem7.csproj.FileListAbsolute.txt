@@ -1,0 +1,15 @@
+C:\Users\ossip\OneDrive\Desktop\Программирование на С#\DZ_Seminar7\DZ47_Sem7\bin\Debug\net6.0\DZ47_Sem7.exe
+C:\Users\ossip\OneDrive\Desktop\Программирование на С#\DZ_Seminar7\DZ47_Sem7\bin\Debug\net6.0\DZ47_Sem7.deps.json
+C:\Users\ossip\OneDrive\Desktop\Программирование на С#\DZ_Seminar7\DZ47_Sem7\bin\Debug\net6.0\DZ47_Sem7.runtimeconfig.json
+C:\Users\ossip\OneDrive\Desktop\Программирование на С#\DZ_Seminar7\DZ47_Sem7\bin\Debug\net6.0\DZ47_Sem7.dll
+C:\Users\ossip\OneDrive\Desktop\Программирование на С#\DZ_Seminar7\DZ47_Sem7\bin\Debug\net6.0\DZ47_Sem7.pdb
+C:\Users\ossip\OneDrive\Desktop\Программирование на С#\DZ_Seminar7\DZ47_Sem7\obj\Debug\net6.0\DZ47_Sem7.csproj.AssemblyReference.cache
+C:\Users\ossip\OneDrive\Desktop\Программирование на С#\DZ_Seminar7\DZ47_Sem7\obj\Debug\net6.0\DZ47_Sem7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ossip\OneDrive\Desktop\Программирование на С#\DZ_Seminar7\DZ47_Sem7\obj\Debug\net6.0\DZ47_Sem7.AssemblyInfoInputs.cache
+C:\Users\ossip\OneDrive\Desktop\Программирование на С#\DZ_Seminar7\DZ47_Sem7\obj\Debug\net6.0\DZ47_Sem7.AssemblyInfo.cs
+C:\Users\ossip\OneDrive\Desktop\Программирование на С#\DZ_Seminar7\DZ47_Sem7\obj\Debug\net6.0\DZ47_Sem7.csproj.CoreCompileInputs.cache
+C:\Users\ossip\OneDrive\Desktop\Программирование на С#\DZ_Seminar7\DZ47_Sem7\obj\Debug\net6.0\DZ47_Sem7.dll
+C:\Users\ossip\OneDrive\Desktop\Программирование на С#\DZ_Seminar7\DZ47_Sem7\obj\Debug\net6.0\refint\DZ47_Sem7.dll
+C:\Users\ossip\OneDrive\Desktop\Программирование на С#\DZ_Seminar7\DZ47_Sem7\obj\Debug\net6.0\DZ47_Sem7.pdb
+C:\Users\ossip\OneDrive\Desktop\Программирование на С#\DZ_Seminar7\DZ47_Sem7\obj\Debug\net6.0\DZ47_Sem7.genruntimeconfig.cache
+C:\Users\ossip\OneDrive\Desktop\Программирование на С#\DZ_Seminar7\DZ47_Sem7\obj\Debug\net6.0\ref\DZ47_Sem7.dll
