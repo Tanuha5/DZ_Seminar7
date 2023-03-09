@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "DZ50_Sem7/1.0.0": {
+        "runtime": {
+          "DZ50_Sem7.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DZ50_Sem7/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
