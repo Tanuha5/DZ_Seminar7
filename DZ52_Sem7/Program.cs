@@ -36,26 +36,27 @@ void PrintMatrix(int[,] matrix)
     Console.WriteLine();
 }
 
-
 int rows = ReadInt("Введите количество строк матрицы: ");
 int cols = ReadInt("Введите количество столбцов матрицы: ");
 int[,] matrix = new int[rows, cols];
 
+void Zamena(int[,] matrix)
+{
+    for (int j = 0; j < matrix.GetLength(1); j++)
+    {
+        double average = 0;
+        for (int i = 0; i < matrix.GetLength(0); i++)
+        {
+            average = (average + matrix[i, j]);
+        }
+        average = average / rows;
+        System.Console.Write(Math.Round(average, 3) + "; ");
+    }
+}
+
 System.Console.WriteLine();
 FillArray(matrix);
 PrintMatrix(matrix);
-
-
-for (int j = 0; j < matrix.GetLength(1); j++)
-{
-    double average = 0;
-    for (int i = 0; i < matrix.GetLength(0); i++)
-    {
-        average = (average + matrix[i, j]);
-    }
-    average = average / rows;
-    System.Console.Write(Math.Round(average, 3) + "; ");
-}
-
+Zamena(matrix);
 
 
